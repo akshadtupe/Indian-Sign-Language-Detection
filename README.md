@@ -18,7 +18,7 @@ pip install ultralytics opencv-python
 python web_detection.py
 ```
 
-## 🧩 How It Works
+# 🧩 How It Works
 1. Webcam frames are captured using OpenCV
 2. YOLOv8 performs object detection on each frame
 3. Detected gestures are classified into sign labels
