@@ -1,0 +1,11 @@
+path: /content/drive/MyDrive/SignLanguageDataset
+
+train: images/train
+val: images/val
+
+names:
+  0: bye
+  1: hello
+  2: me
+  3: thanks
+  4: you
